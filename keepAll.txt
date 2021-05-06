@@ -1,0 +1,421 @@
+----- Beginning Simulation -----
+
+                --- Target Score : 0  ---
+Games                    10000
+Turns                    268805
+nothing                  6339                    2.36%
+ones & fives             149166                  55.49%
+3 Ones                   13939                   5.19%
+3 Twos                   13780                   5.13%
+3 Threes                 14292                   5.32%
+3 Fours                  13705                   5.1%
+3 Fives                  13962                   5.19%
+3 Sixes                  13684                   5.09%
+4 of a kind              10349                   3.85%
+5 of a kind              999                     0.37%
+6 of a kind              45                      0.02%
+Straight                 4179                    1.55%
+3 Pairs                  10229                   3.81%
+2 Triplets               1719                    0.64%
+Full House               2418                    0.9%
+Average Turns: 26.8805
+
+--- Target Score : 50  ---
+Games                    10000
+Turns                    267064
+nothing                  6084                    2.28%
+ones & fives             148166                  55.48%
+3 Ones                   13932                   5.22%
+3 Twos                   13574                   5.08%
+3 Threes                 13712                   5.13%
+3 Fours                  13805                   5.17%
+3 Fives                  13836                   5.18%
+3 Sixes                  13610                   5.1%
+4 of a kind              10430                   3.91%
+5 of a kind              1059                    0.4%
+6 of a kind              35                      0.01%
+Straight                 4312                    1.61%
+3 Pairs                  10260                   3.84%
+2 Triplets               1632                    0.61%
+Full House               2617                    0.98%
+Average Turns: 26.7064
+
+--- Target Score : 100  ---
+Games                    10000
+Turns                    257049
+nothing                  7474                    2.91%
+ones & fives             136922                  53.27%
+3 Ones                   13941                   5.42%
+3 Twos                   13880                   5.4%
+3 Threes                 13981                   5.44%
+3 Fours                  13673                   5.32%
+3 Fives                  13763                   5.35%
+3 Sixes                  13976                   5.44%
+4 of a kind              10280                   4.0%
+5 of a kind              994                     0.39%
+6 of a kind              40                      0.02%
+Straight                 3932                    1.53%
+3 Pairs                  10054                   3.91%
+2 Triplets               1614                    0.63%
+Full House               2525                    0.98%
+Average Turns: 25.7049
+
+--- Target Score : 150  ---
+Games                    10000
+Turns                    244414
+nothing                  11186                   4.58%
+ones & fives             121049                  49.53%
+3 Ones                   14089                   5.76%
+3 Twos                   14065                   5.75%
+3 Threes                 14061                   5.75%
+3 Fours                  13821                   5.65%
+3 Fives                  13920                   5.7%
+3 Sixes                  14124                   5.78%
+4 of a kind              10108                   4.14%
+5 of a kind              892                     0.36%
+6 of a kind              33                      0.01%
+Straight                 3749                    1.53%
+3 Pairs                  9440                    3.86%
+2 Triplets               1608                    0.66%
+Full House               2269                    0.93%
+Average Turns: 24.4414
+
+--- Target Score : 200  ---
+Games                    10000
+Turns                    236046
+nothing                  17070                   7.23%
+ones & fives             107564                  45.57%
+3 Ones                   14247                   6.04%
+3 Twos                   14064                   5.96%
+3 Threes                 14034                   5.95%
+3 Fours                  13974                   5.92%
+3 Fives                  14018                   5.94%
+3 Sixes                  13973                   5.92%
+4 of a kind              9705                    4.11%
+5 of a kind              960                     0.41%
+6 of a kind              27                      0.01%
+Straight                 3631                    1.54%
+3 Pairs                  8983                    3.81%
+2 Triplets               1514                    0.64%
+Full House               2282                    0.97%
+Average Turns: 23.6046
+
+--- Target Score : 250  ---
+Games                    10000
+Turns                    230094
+nothing                  29215                   12.7%
+ones & fives             92104                   40.03%
+3 Ones                   13884                   6.03%
+3 Twos                   11757                   5.11%
+3 Threes                 14035                   6.1%
+3 Fours                  14287                   6.21%
+3 Fives                  13943                   6.06%
+3 Sixes                  13982                   6.08%
+4 of a kind              9635                    4.19%
+5 of a kind              952                     0.41%
+6 of a kind              30                      0.01%
+Straight                 3621                    1.57%
+3 Pairs                  8968                    3.9%
+2 Triplets               1456                    0.63%
+Full House               2225                    0.97%
+Average Turns: 23.0094
+
+--- Target Score : 300  ---
+Games                    10000
+Turns                    231635
+nothing                  45645                   19.71%
+ones & fives             78259                   33.79%
+3 Ones                   14244                   6.15%
+3 Twos                   9145                    3.95%
+3 Threes                 14221                   6.14%
+3 Fours                  14331                   6.19%
+3 Fives                  14225                   6.14%
+3 Sixes                  14647                   6.32%
+4 of a kind              9693                    4.18%
+5 of a kind              838                     0.36%
+6 of a kind              31                      0.01%
+Straight                 3613                    1.56%
+3 Pairs                  8945                    3.86%
+2 Triplets               1552                    0.67%
+Full House               2246                    0.97%
+Average Turns: 23.1635
+
+--- Target Score : 350  ---
+Games                    10000
+Turns                    241362
+nothing                  71434                   29.6%
+ones & fives             70336                   29.14%
+3 Ones                   8726                    3.62%
+3 Twos                   5313                    2.2%
+3 Threes                 12508                   5.18%
+3 Fours                  15103                   6.26%
+3 Fives                  15075                   6.25%
+3 Sixes                  14745                   6.11%
+4 of a kind              10116                   4.19%
+5 of a kind              941                     0.39%
+6 of a kind              32                      0.01%
+Straight                 3683                    1.53%
+3 Pairs                  9387                    3.89%
+2 Triplets               1601                    0.66%
+Full House               2362                    0.98%
+Average Turns: 24.1362
+
+--- Target Score : 400  ---
+Games                    10000
+Turns                    256189
+nothing                  101809                  39.74%
+ones & fives             58623                   22.88%
+3 Ones                   3775                    1.47%
+3 Twos                   3085                    1.2%
+3 Threes                 10357                   4.04%
+3 Fours                  16198                   6.32%
+3 Fives                  16052                   6.27%
+3 Sixes                  15952                   6.23%
+4 of a kind              11036                   4.31%
+5 of a kind              1007                    0.39%
+6 of a kind              44                      0.02%
+Straight                 3965                    1.55%
+3 Pairs                  10085                   3.94%
+2 Triplets               1678                    0.65%
+Full House               2523                    0.98%
+Average Turns: 25.6189
+
+--- Target Score : 450  ---
+Games                    10000
+Turns                    269078
+nothing                  130938                  48.66%
+ones & fives             46381                   17.24%
+3 Ones                   2204                    0.82%
+3 Twos                   1495                    0.56%
+3 Threes                 6470                    2.4%
+3 Fours                  14547                   5.41%
+3 Fives                  17383                   6.46%
+3 Sixes                  17058                   6.34%
+4 of a kind              11730                   4.36%
+5 of a kind              1072                    0.4%
+6 of a kind              29                      0.01%
+Straight                 4294                    1.6%
+3 Pairs                  10983                   4.08%
+2 Triplets               1844                    0.69%
+Full House               2650                    0.98%
+Average Turns: 26.9078
+
+--- Target Score : 500  ---
+Games                    10000
+Turns                    268894
+nothing                  143438                  53.34%
+ones & fives             35321                   13.14%
+3 Ones                   2157                    0.8%
+3 Twos                   1543                    0.57%
+3 Threes                 4359                    1.62%
+3 Fours                  12014                   4.47%
+3 Fives                  18179                   6.76%
+3 Sixes                  17976                   6.69%
+4 of a kind              12228                   4.55%
+5 of a kind              1161                    0.43%
+6 of a kind              35                      0.01%
+Straight                 4413                    1.64%
+3 Pairs                  11398                   4.24%
+2 Triplets               1958                    0.73%
+Full House               2714                    1.01%
+Average Turns: 26.8894
+
+--- Target Score : 550  ---
+Games                    10000
+Turns                    264091
+nothing                  149093                  56.46%
+ones & fives             34492                   13.06%
+3 Ones                   2367                    0.9%
+3 Twos                   2142                    0.81%
+3 Threes                 2879                    1.09%
+3 Fours                  7770                    2.94%
+3 Fives                  11730                   4.44%
+3 Sixes                  18463                   6.99%
+4 of a kind              12612                   4.78%
+5 of a kind              1200                    0.45%
+6 of a kind              39                      0.01%
+Straight                 4713                    1.78%
+3 Pairs                  11618                   4.4%
+2 Triplets               1976                    0.75%
+Full House               2997                    1.13%
+Average Turns: 26.4091
+
+--- Target Score : 600  ---
+Games                    10000
+Turns                    262039
+nothing                  152463                  58.18%
+ones & fives             30330                   11.57%
+3 Ones                   2514                    0.96%
+3 Twos                   2500                    0.95%
+3 Threes                 2656                    1.01%
+3 Fours                  5520                    2.11%
+3 Fives                  11640                   4.44%
+3 Sixes                  18742                   7.15%
+4 of a kind              12797                   4.88%
+5 of a kind              1244                    0.47%
+6 of a kind              49                      0.02%
+Straight                 4737                    1.81%
+3 Pairs                  11930                   4.55%
+2 Triplets               1989                    0.76%
+Full House               2928                    1.12%
+Average Turns: 26.2039
+
+--- Target Score : 650  ---
+Games                    10000
+Turns                    269298
+nothing                  165148                  61.33%
+ones & fives             32975                   12.24%
+3 Ones                   2872                    1.07%
+3 Twos                   2583                    0.96%
+3 Threes                 2771                    1.03%
+3 Fours                  3721                    1.38%
+3 Fives                  6148                    2.28%
+3 Sixes                  16620                   6.17%
+4 of a kind              13166                   4.89%
+5 of a kind              1236                    0.46%
+6 of a kind              45                      0.02%
+Straight                 4707                    1.75%
+3 Pairs                  12172                   4.52%
+2 Triplets               2046                    0.76%
+Full House               3088                    1.15%
+Average Turns: 26.9298
+
+--- Target Score : 700  ---
+Games                    10000
+Turns                    273217
+nothing                  173327                  63.44%
+ones & fives             30659                   11.22%
+3 Ones                   3008                    1.1%
+3 Twos                   2732                    1.0%
+3 Threes                 3123                    1.14%
+3 Fours                  3218                    1.18%
+3 Fives                  5757                    2.11%
+3 Sixes                  13908                   5.09%
+4 of a kind              13619                   4.98%
+5 of a kind              1291                    0.47%
+6 of a kind              38                      0.01%
+Straight                 4848                    1.77%
+3 Pairs                  12437                   4.55%
+2 Triplets               2061                    0.75%
+Full House               3191                    1.17%
+Average Turns: 27.3217
+
+--- Target Score : 750  ---
+Games                    10000
+Turns                    287339
+nothing                  192624                  67.04%
+ones & fives             29264                   10.18%
+3 Ones                   3122                    1.09%
+3 Twos                   2428                    0.84%
+3 Threes                 3237                    1.13%
+3 Fours                  3440                    1.2%
+3 Fives                  3874                    1.35%
+3 Sixes                  9719                    3.38%
+4 of a kind              14378                   5.0%
+5 of a kind              1401                    0.49%
+6 of a kind              54                      0.02%
+Straight                 5254                    1.83%
+3 Pairs                  13140                   4.57%
+2 Triplets               2129                    0.74%
+Full House               3275                    1.14%
+Average Turns: 28.7339
+
+--- Target Score : 800  ---
+Games                    10000
+Turns                    296543
+nothing                  206220                  69.54%
+ones & fives             25990                   8.76%
+3 Ones                   2755                    0.93%
+3 Twos                   2069                    0.7%
+3 Threes                 3322                    1.12%
+3 Fours                  3693                    1.25%
+3 Fives                  3885                    1.31%
+3 Sixes                  7120                    2.4%
+4 of a kind              15028                   5.07%
+5 of a kind              1370                    0.46%
+6 of a kind              50                      0.02%
+Straight                 5626                    1.9%
+3 Pairs                  13774                   4.64%
+2 Triplets               2240                    0.76%
+Full House               3401                    1.15%
+Average Turns: 29.6543
+
+--- Target Score : 850  ---
+Games                    10000
+Turns                    305790
+nothing                  219715                  71.85%
+ones & fives             22427                   7.33%
+3 Ones                   2220                    0.73%
+3 Twos                   1791                    0.59%
+3 Threes                 3098                    1.01%
+3 Fours                  3905                    1.28%
+3 Fives                  4126                    1.35%
+3 Sixes                  5257                    1.72%
+4 of a kind              15591                   5.1%
+5 of a kind              1500                    0.49%
+6 of a kind              44                      0.01%
+Straight                 5849                    1.91%
+3 Pairs                  14293                   4.67%
+2 Triplets               2371                    0.78%
+Full House               3603                    1.18%
+Average Turns: 30.579
+
+--- Target Score : 900  ---
+Games                    10000
+Turns                    311941
+nothing                  228869                  73.37%
+ones & fives             19597                   6.28%
+3 Ones                   1885                    0.6%
+3 Twos                   1472                    0.47%
+3 Threes                 2608                    0.84%
+3 Fours                  3879                    1.24%
+3 Fives                  4374                    1.4%
+3 Sixes                  4673                    1.5%
+4 of a kind              16190                   5.19%
+5 of a kind              1521                    0.49%
+6 of a kind              63                      0.02%
+Straight                 5962                    1.91%
+3 Pairs                  14635                   4.69%
+2 Triplets               2446                    0.78%
+Full House               3767                    1.21%
+Average Turns: 31.1941
+
+--- Target Score : 950  ---
+Games                    10000
+Turns                    317197
+nothing                  236651                  74.61%
+ones & fives             16799                   5.3%
+3 Ones                   1533                    0.48%
+3 Twos                   1307                    0.41%
+3 Threes                 2288                    0.72%
+3 Fours                  3637                    1.15%
+3 Fives                  4394                    1.39%
+3 Sixes                  4764                    1.5%
+4 of a kind              16759                   5.28%
+5 of a kind              1492                    0.47%
+6 of a kind              45                      0.01%
+Straight                 6043                    1.91%
+3 Pairs                  15243                   4.81%
+2 Triplets               2519                    0.79%
+Full House               3723                    1.17%
+Average Turns: 31.7197
+
+--- Target Score : 1000  ---
+Games                    10000
+Turns                    324184
+nothing                  245707                  75.79%
+ones & fives             14882                   4.59%
+3 Ones                   1419                    0.44%
+3 Twos                   1270                    0.39%
+3 Threes                 1900                    0.59%
+3 Fours                  3184                    0.98%
+3 Fives                  4092                    1.26%
+3 Sixes                  4955                    1.53%
+4 of a kind              16767                   5.17%
+5 of a kind              1625                    0.5%
+6 of a kind              57                      0.02%
+Straight                 6321                    1.95%
+3 Pairs                  15367                   4.74%
+2 Triplets               2609                    0.8%
+Full House               4029                    1.24%
+Average Turns: 32.4184
